@@ -7,7 +7,7 @@
       width="45%"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=attetorress&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
       alt="GitHub Stats"
       width="50%"
     />

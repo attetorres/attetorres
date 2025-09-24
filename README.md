@@ -6,6 +6,8 @@
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl3M3NlZDJkOWI3N3ZqZ2k0ZGhudHpzbWF5MXlpYmtycTBseWhsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="230">
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=02D9F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Vue;Always+learning+new+things)](https://git.io/typing-svg)
+
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atteneritorres/)](https://www.linkedin.com/in/atteneritorres/)
 

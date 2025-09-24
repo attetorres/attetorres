@@ -29,20 +29,20 @@
 
 
 <h3>GitHub Analytics</h3>
-<div align="center">
+<h3>GitHub Analytics</h3>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=attetorres&layout=compact&theme=tokyonight&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
     alt="Top Languages"
     width="40%"
   />
-  <div>
   <img
     src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
     width="45%"
   />
-  </div>
-</div>
+</p>
+
 <br/>
 <div align="center">
   <img

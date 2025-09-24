@@ -1,5 +1,9 @@
-:octocat: HI! 
-
+<h1>:octocat: HI!</h1>
+---
+<div>
+  <p>I'm Atte, Frontend Developer from <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/769871d5-416b-479b-b9af-d1c3f8b14d15" />
+</p>
+</div>
 
 
 📈 GitHub Analytics

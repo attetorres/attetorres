@@ -1,7 +1,8 @@
 <h1>:octocat: HI!</h1>
 
 <div>
-  <p>I'm Atte, Frontend Developer from  <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" />
+  <p>I'm Atte, Frontend Developer from
+    <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" />
 </p>
 </div>
 

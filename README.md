@@ -7,7 +7,7 @@
 </div>
 
 
-[![Linkedin](https://img.shields.io/badge/-atteneritorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atteneritorres/)](https://www.linkedin.com/in/atteneritorres/)
+[![Linkedin](https://img.shields.io/badge/blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atteneritorres/)](https://www.linkedin.com/in/atteneritorres/)
 
 
 <h3>My tech arsenal</h3>

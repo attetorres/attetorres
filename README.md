@@ -33,12 +33,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=attetorres&layout=compact&theme=tokyonight&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
     alt="Top Languages"
-    width="30%"
+    width="40%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
-    width="35%"
+    width="45%"
   />
 </div>
 <br/>
@@ -46,16 +46,16 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attetorres&theme=tokyonight"
     alt="Profile Details"
-    width="50%"
+    width="70%"
   />
 </div>
 
 <h3>Achievements</h3>
-<div align="center">
+<div >
   <img 
     src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" 
     alt="GitHub Trophies" 
-    width="65%"
+    width="75%"
   />
 </div>
 

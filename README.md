@@ -33,12 +33,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=attetorres&layout=compact&theme=tokyonight&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
     alt="Top Languages"
-    width="40%"
+    width="30%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
-    width="45%"
+    width="30%"
   />
 </div>
 <br/>

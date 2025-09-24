@@ -3,8 +3,8 @@
 <div>
   <p>I'm Atte, Frontend Developer from  <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" align="center"/>
 </p>
-  
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV1bnAzOW9hcTVoaWk3aG5ieHM1dnZhdWR0cGdjNG0xdmQ4aXhyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif width="50">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <div>
   <p>I'm Atte, Frontend Developer from
-    <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" margin-top: 1em; />
+    <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" padding-top: 1em; />
 </p>
 </div>
 

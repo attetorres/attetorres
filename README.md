@@ -29,33 +29,42 @@
 
 
 <h3>GitHub Analytics</h3>
-<div>
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=attetorres&layout=compact&theme=tokyonight&hide_title=falstitle_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
-      alt="Top Languages"
-      width="45%"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-      width="50%"
-    />
-  </div>
-  <br/>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=attetorres&layout=compact&theme=tokyonight&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
+    alt="Top Languages"
+    width="40%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    width="45%"
+  />
+</div>
+<br/>
+<div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attetorres&theme=tokyonight"
     alt="Profile Details"
-    width="100%"
+    width="90%"
   />
 </div>
 
 <h3>Achievements</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" 
+    alt="GitHub Trophies" 
+    width="85%"
+  />
 </div>
 
 <h3>Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=attetorres&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=attetorres&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" 
+    alt="Contribution Graph" 
+    width="85%"
+  />
 </div>
+

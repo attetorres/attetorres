@@ -26,9 +26,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 
-
-
-<h3>GitHub Analytics</h3>
 <h3>GitHub Analytics</h3>
 <p align="center">
   <img
@@ -36,6 +33,7 @@
     alt="Top Languages"
     width="40%"
   />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api?username=attetorres&show_icons=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
     alt="GitHub Stats"

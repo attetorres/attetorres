@@ -55,7 +55,7 @@
   <img 
     src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" 
     alt="GitHub Trophies" 
-    width="75%"
+    width="100%"
   />
 </div>
 

@@ -1,4 +1,4 @@
-<h1>:octocat: HI!</h1>
+<h1>:octocat: Hi!</h1>
 
 <div>
   <p>I'm Atte, Frontend Developer from
@@ -24,7 +24,7 @@
 
 
 
-📈 GitHub Analytics
+<h3>GitHub Analytics</h3>
 <div>
   <div align="center">
     <img
@@ -46,12 +46,12 @@
   />
 </div>
 
-🏆 Achievements
+<h3>Achievements</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </div>
 
-📊 Contribution Graph
+<h3>Contribution Graph</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=attetorres&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>

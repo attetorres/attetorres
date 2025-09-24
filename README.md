@@ -55,7 +55,7 @@
   <img 
     src="https://github-profile-trophy.vercel.app/?username=attetorres&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" 
     alt="GitHub Trophies" 
-    width="55%"
+    width="65%"
   />
 </div>
 
@@ -64,7 +64,7 @@
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=attetorres&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" 
     alt="Contribution Graph" 
-    width="85%"
+    width="65%"
   />
 </div>
 

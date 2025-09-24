@@ -4,9 +4,10 @@
   <p>I'm Atte, Frontend Developer from  <img alt="image" src="https://github.com/user-attachments/assets/49fddcba-a05e-4f0a-943e-51877e8dd753"  width="25" align="center"/>
 </p>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl3M3NlZDJkOWI3N3ZqZ2k0ZGhudHpzbWF5MXlpYmtycTBseWhsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="230">
-
-
 </div>
+
+[![Linkedin: atteneritorres](https://img.shields.io/badge/-atteneritorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atteneritorres/)](https://www.linkedin.com/in/atteneritorres/)
+
 
 <h3>My tech arsenal</h3>
 

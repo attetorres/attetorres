@@ -27,6 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-4169E1?style=flat-square&logo=threejs&logoColor=white)
 
 
 <h3>GitHub Analytics</h3>
